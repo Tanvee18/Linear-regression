@@ -11,9 +11,13 @@ https://www.kaggle.com/datasets/budincsevity/szeged-weather
 #Technologies Used
 
 Python
+
 Numpy
+
 Pandas
+
 Scikit-learn
+
 Matplotlib
 
 ## Methodology
@@ -34,5 +38,7 @@ Matplotlib
 #Results
 
 MAE: 0.8819966667734273
+
 MSE: 1.3368092329158878
+
 R² Score: 0.9854945773998551
